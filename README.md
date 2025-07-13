@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahip.</h1>
-<h3 align="center">I am a computer science student passionate about building different types of projects, mainly focused on backend/full stack development.</h3>
+<h3 align="center">I am a computer science student, passionate about building different types of projects, mainly focused on backend/full stack development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahiplol&label=Profile%20views&color=0e75b6&style=flat" alt="mahiplol" /> </p>
 
